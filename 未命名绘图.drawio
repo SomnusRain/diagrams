@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T10:42:19.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="U2raC3lIRWlenqEDTz_J" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T10:44:25.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="4xj0ENd5Gz1bdosGCcBz" version="18.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1220" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -108,13 +108,14 @@
         <mxCell id="Moc4mArZVP1X1mtnOCIG-46" value="正常 90RTP spin" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Moc4mArZVP1X1mtnOCIG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Moc4mArZVP1X1mtnOCIG-56" target="Moc4mArZVP1X1mtnOCIG-45" edge="1">
+        <mxCell id="Moc4mArZVP1X1mtnOCIG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Moc4mArZVP1X1mtnOCIG-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="857" />
-              <mxPoint x="610" y="760" />
-              <mxPoint x="560" y="760" />
+              <mxPoint x="610" y="750" />
+              <mxPoint x="560" y="750" />
             </Array>
+            <mxPoint x="560" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Moc4mArZVP1X1mtnOCIG-56" value="余额高于N倍当前bet&lt;br&gt;spin N次之后" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -169,13 +170,14 @@
         <mxCell id="Moc4mArZVP1X1mtnOCIG-83" value="正常 90RTP spin" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Moc4mArZVP1X1mtnOCIG-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Moc4mArZVP1X1mtnOCIG-85" target="Moc4mArZVP1X1mtnOCIG-81" edge="1">
+        <mxCell id="Moc4mArZVP1X1mtnOCIG-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Moc4mArZVP1X1mtnOCIG-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="1067" />
               <mxPoint x="610" y="960" />
               <mxPoint x="560" y="960" />
             </Array>
+            <mxPoint x="560" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Moc4mArZVP1X1mtnOCIG-85" value="余额高于N倍当前bet&lt;br&gt;spin N次之后" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
