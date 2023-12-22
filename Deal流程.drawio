@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T11:29:24.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Pcp6uqKtk2zId7HFzS_9" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T11:37:23.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ndl4Tf1wWeWGct9lCksS" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2586" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         <mxCell id="DPb7wRXF61A1M562Ad9j-102" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DPb7wRXF61A1M562Ad9j-97" target="DPb7wRXF61A1M562Ad9j-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DPb7wRXF61A1M562Ad9j-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DPb7wRXF61A1M562Ad9j-97" target="DPb7wRXF61A1M562Ad9j-103" edge="1">
+        <mxCell id="DPb7wRXF61A1M562Ad9j-104" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DPb7wRXF61A1M562Ad9j-97" target="DPb7wRXF61A1M562Ad9j-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPb7wRXF61A1M562Ad9j-97" value="4.deal1升档判定" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -601,7 +601,7 @@
         <mxCell id="QUYP6OqpwPbclNsKZdiI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QUYP6OqpwPbclNsKZdiI-0" source="QUYP6OqpwPbclNsKZdiI-23" target="QUYP6OqpwPbclNsKZdiI-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QUYP6OqpwPbclNsKZdiI-23" value="根据配置随机优惠&amp;amp;价格&amp;amp;CD" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="QUYP6OqpwPbclNsKZdiI-0">
+        <mxCell id="QUYP6OqpwPbclNsKZdiI-23" value="根据配置随机优惠&amp;amp;价格&amp;amp;CD (无机台解锁)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="QUYP6OqpwPbclNsKZdiI-0">
           <mxGeometry x="120" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QUYP6OqpwPbclNsKZdiI-59" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QUYP6OqpwPbclNsKZdiI-0" source="QUYP6OqpwPbclNsKZdiI-56" target="QUYP6OqpwPbclNsKZdiI-58">
