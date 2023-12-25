@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T06:32:23.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jc4CdssfggKCU37yS5sg" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T07:17:04.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8zFvC-pX6sEnlzF2r2rO" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2586" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -862,12 +862,12 @@
         <mxCell id="NsobIx5qtJKIlAdT1BVe-111" value="当前deal为deal2" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="NsobIx5qtJKIlAdT1BVe-56">
           <mxGeometry x="200" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NsobIx5qtJKIlAdT1BVe-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NsobIx5qtJKIlAdT1BVe-56" source="NsobIx5qtJKIlAdT1BVe-116" target="NsobIx5qtJKIlAdT1BVe-122">
+        <mxCell id="NsobIx5qtJKIlAdT1BVe-121" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NsobIx5qtJKIlAdT1BVe-56" source="NsobIx5qtJKIlAdT1BVe-116" target="NsobIx5qtJKIlAdT1BVe-122">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsobIx5qtJKIlAdT1BVe-133" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NsobIx5qtJKIlAdT1BVe-56" source="NsobIx5qtJKIlAdT1BVe-116" target="NsobIx5qtJKIlAdT1BVe-131">
+        <mxCell id="NsobIx5qtJKIlAdT1BVe-133" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NsobIx5qtJKIlAdT1BVe-56" source="NsobIx5qtJKIlAdT1BVe-116" target="NsobIx5qtJKIlAdT1BVe-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-116" value="当天deal1.5是否被购买过" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="NsobIx5qtJKIlAdT1BVe-56">
