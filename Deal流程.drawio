@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T06:24:15.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lavWYidqAC_PzWoZdHNc" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T06:32:23.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jc4CdssfggKCU37yS5sg" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2586" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPb7wRXF61A1M562Ad9j-97" value="4.deal1升档判定" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1321" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="1320" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPb7wRXF61A1M562Ad9j-99" value="deal1-正常" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1080" y="200" width="120" height="40" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPb7wRXF61A1M562Ad9j-103" value="5.推送时间判定" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1561" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="1560" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DPb7wRXF61A1M562Ad9j-105" target="NsobIx5qtJKIlAdT1BVe-86">
           <mxGeometry relative="1" as="geometry">
@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DPb7wRXF61A1M562Ad9j-105" value="deal1.5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1481" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="1480" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WJAeF4iGQMadBWUu6b0e-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DPb7wRXF61A1M562Ad9j-110" target="WJAeF4iGQMadBWUu6b0e-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -916,7 +916,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-86" value="6.破产deal判断" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1801" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="1800" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-92" value="展示时机为破产" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NsobIx5qtJKIlAdT1BVe-88" target="NsobIx5qtJKIlAdT1BVe-86">
           <mxGeometry x="-0.3" relative="1" as="geometry">
@@ -928,10 +928,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-88" value="deal2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1641" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="1640" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-95" value="破产deal" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1881" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="1880" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-98" value="&lt;ul&gt;&lt;li&gt;非特定新增用户&lt;/li&gt;&lt;li&gt;非回归用户&lt;/li&gt;&lt;li&gt;推送固定deal1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" width="240" height="80" as="geometry" />
@@ -945,10 +945,13 @@
         <mxCell id="NsobIx5qtJKIlAdT1BVe-102" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NsobIx5qtJKIlAdT1BVe-86">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1961" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1961" y="100" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-101" value="&lt;ul&gt;&lt;li&gt;特定破产时机推送&lt;/li&gt;&lt;li&gt;如果deal1.5已被购买则推送deal2&lt;/li&gt;&lt;li&gt;CD与外部相同&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1881" width="240" height="80" as="geometry" />
+          <mxGeometry x="1880" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NsobIx5qtJKIlAdT1BVe-134" target="NsobIx5qtJKIlAdT1BVe-135">
           <mxGeometry relative="1" as="geometry" />
@@ -1034,6 +1037,15 @@
         </mxCell>
         <mxCell id="NsobIx5qtJKIlAdT1BVe-156" value="&lt;ul&gt;&lt;li&gt;目前商店只接受31000优惠券加成,后续会增加其他优惠券加成&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2180" y="240" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsobIx5qtJKIlAdT1BVe-159" value="&lt;ul&gt;&lt;li&gt;根据上次付费时间和推送记录决定deal类型(deal1.5或deal2)&lt;/li&gt;&lt;li&gt;新增针对deal1,deal1.5,deal2,回归deal的加成活动开启方式后台配置&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsobIx5qtJKIlAdT1BVe-160" value="info" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NsobIx5qtJKIlAdT1BVe-159" target="DPb7wRXF61A1M562Ad9j-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="70" as="targetPoint" />
+            <mxPoint x="1630" y="30" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
