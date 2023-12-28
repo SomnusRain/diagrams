@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T08:06:19.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IlynlTW6nsPLNV4vKpjI" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T08:29:48.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="k8zMiQLeoYWt6N9BvdXo" version="22.1.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2586" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -1067,7 +1067,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0C4j7Ou_6RFuc279PuJr-1" value="&lt;ul&gt;&lt;li&gt;付费后&amp;lt;小时&lt;/li&gt;&lt;li&gt;购买金额不超过N&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;spacingLeft=-20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0C4j7Ou_6RFuc279PuJr-1" value="&lt;ul&gt;&lt;li&gt;首次付费后&amp;lt;小时&lt;/li&gt;&lt;li&gt;最大付费&amp;lt;N&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;spacingLeft=-20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
