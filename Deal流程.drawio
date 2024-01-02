@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T02:52:10.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="S79MgT8MISDoxRdJNrGj" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T06:56:42.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NE-_KwDlLZ8umjSLE2sV" version="22.1.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2586" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -714,7 +714,7 @@
         <mxCell id="NsobIx5qtJKIlAdT1BVe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QUYP6OqpwPbclNsKZdiI-0" source="QUYP6OqpwPbclNsKZdiI-23" target="QUYP6OqpwPbclNsKZdiI-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QUYP6OqpwPbclNsKZdiI-23" value="根据配置随机优惠&amp;amp;价格&amp;amp;CD (无机台解锁)" style="whiteSpace=wrap;html=1;rounded=1;" parent="QUYP6OqpwPbclNsKZdiI-0" vertex="1">
+        <mxCell id="QUYP6OqpwPbclNsKZdiI-23" value="根据配置随机优惠&amp;amp;价格&amp;amp;CD" style="whiteSpace=wrap;html=1;rounded=1;" parent="QUYP6OqpwPbclNsKZdiI-0" vertex="1">
           <mxGeometry x="120" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QUYP6OqpwPbclNsKZdiI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="QUYP6OqpwPbclNsKZdiI-0" source="QUYP6OqpwPbclNsKZdiI-21" target="QUYP6OqpwPbclNsKZdiI-23" edge="1">
